@@ -23,3 +23,7 @@ This app uses the BLoC state management pattern to manage the state of the game 
 Here's a GIF of the app in action:
 
 ![App Demo](demo.gif)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
